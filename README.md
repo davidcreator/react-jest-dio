@@ -2,15 +2,13 @@
 
 Realizando testes unitários com React e Jest.
 
-### Branches
-
 1 - [component-render](./components)
 
-2 - user-events
+2 - [user-events](./components/PokemonCard)
 
-3 - redux
+3 - [redux](./store)
 
-4 - context-api
+4 - [context-api](./providers)
 
 ### Agradecimento
 
@@ -24,5 +22,5 @@ Esse repositório tem o objetivo de registrar o conteúdo do workshop sobre Reac
 
 Dividiremos as branches para cada conteúdo. Para acessar um conteúdo específico basta trocar de branch.
 
-
+Repositório do WorkShop [Testes Unitários com React e Jest](https://github.com/sephh/workshop-react-jest/tree/master)
 
